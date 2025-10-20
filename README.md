@@ -134,5 +134,3 @@ It reflects the ability to plan, implement, test, and document small-scale enter
 This project is created for educational and portfolio purposes.  
 All configurations and designs are original and independently developed by **Aslina Majid**.
 
-## 📁 Repository Structure  
-
