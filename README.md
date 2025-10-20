@@ -83,7 +83,7 @@ It provides clear steps for:
 - Establishing wired and wireless connections  
 - Setting up the IoT Server and managing devices via the IoT Monitor App  
 
-📎 *See: `Smart_Office_User_Guide.pdf`*  
+📎 *See: `Smart Office Network – Packet Tracer User Guide`*  
 
 ---
 
